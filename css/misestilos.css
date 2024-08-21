@@ -1,0 +1,59 @@
+#texto1 {
+    color: red;
+    width: 1000px;
+    border: 5px solid black;
+    padding: 20px 50px 10px 100px;
+    margin: 30px 30px 25px 25px;
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#texto2 {
+    color: blue;
+    width: 1000px;
+    border: 5px solid black;
+    padding: 20px 50px 10px 100px;
+    margin: 30px 30px 25px 25px;
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h4,h5,h6 {
+    color: darkseagreen;
+}
+
+ul li{
+    color: violet;
+}
+
+ol li{
+    color: darkorange;
+    font-size: 45px;
+}
+
+ol+p{
+    font-size: 40px;
+    color: chocolate;
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+
+h1.encabezados{
+    color: rgb(255, 0, 0);
+}
+
+.encabezados{
+    color: coral;
+}
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
